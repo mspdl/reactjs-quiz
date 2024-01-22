@@ -7,8 +7,8 @@ export const questions: Question[] = [
     answer: 1,
   },
   {
-    question: "Which ingredient cannot be missing?",
-    options: ["Flour", "Dye", "Water", "Sugar"],
-    answer: 1,
+    question: "What is the best way to cook?",
+    options: ["Microwave", "Stove", "Camp fire", "Flame thrower"],
+    answer: 3,
   },
 ];
